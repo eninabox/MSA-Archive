@@ -1,2 +1,2 @@
 # MSA-Archive
-A public statistics on deleted discord server Morning Start Academy.
+Public statistics on deleted discord server Morning Start Academy. Visit linked website to explore.
